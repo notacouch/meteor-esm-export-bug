@@ -1,2 +1,2 @@
-export { default } from "../.internal/themes/dark";
+export { default } from "../internal/themes/dark";
 //# sourceMappingURL=dark.js.map

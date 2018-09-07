@@ -1,2 +1,2 @@
-export { default } from "../.internal/themes/animated";
+export { default } from "../internal/themes/animated";
 //# sourceMappingURL=animated.js.map

@@ -1,2 +1,2 @@
-export { default } from "../.internal/themes/kelly";
+export { default } from "../internal/themes/kelly";
 //# sourceMappingURL=kelly.js.map
